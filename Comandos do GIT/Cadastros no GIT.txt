@@ -1,0 +1,4 @@
+01 - git config --global user.email "E-Mail do usuário do GH"
+
+02 - git config --global user.name "usuário" (o meu é: gutofols)
+

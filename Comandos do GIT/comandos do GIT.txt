@@ -1,0 +1,18 @@
+01 - Copiar o Link do Repositório
+
+02 - dentro da pasta de destino local, clicamos com o botão direito do mouse e abrimos o BASH
+Dentro do BASH, usamos o codigo 
+    -> ### git clone "Link do repositório que acabamos de copiar"
+
+03 - git status  -> sabermos o Status de nossa pasta
+
+04 - git add .   -> adiciona os arquivos locais no "preparação" para envio pro GitHub
+
+05 - git commit -m "comentário"  -> comitar, "compilar" os arquivos para enviar ao GitHub
+
+06 - git push origin main   -> Envia os arquivos
+
+07 - git log     -> Mostra todos os LOGs (registros, comits) feitos
+
+Para "Baixar" os arquigvos para o trabalho local:
+08 - git pull origin main
