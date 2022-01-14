@@ -1,1 +1,3 @@
 <p>  - Paragrafo
+<hr> - Linha Horizontal
+<h1> - Cabeçálios ("titulos")
