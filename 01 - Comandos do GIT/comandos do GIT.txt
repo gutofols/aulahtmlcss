@@ -10,7 +10,10 @@ Dentro do BASH, usamos o codigo
 
 05 - git commit -m "comentário"  -> comitar, "compilar" os arquivos para enviar ao GitHub
 
-06 - git push origin main   -> Envia os arquivos
+05 - git checkout -b "nome_do_branch"  -> cria uma nova branch e sai da Main (ou da antiga)
+
+06 - git push origin main     -> Envia os arquivos
+   - git push -u origin main  -> Envia os arquivos 
 
 07 - git log     -> Mostra todos os LOGs (registros, comits) feitos
 
